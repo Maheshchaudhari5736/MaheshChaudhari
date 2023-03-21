@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)(https://www.google.com/search?q=banner+image+for+github+animated&tbm=isch&ved=2ahUKEwj61YXtuuz9AhXlodgFHYb-AWwQ2-cCegQIABAA&oq=banner+image+for+github+animated&gs_lcp=CgNpbWcQAzoHCAAQgAQQGFDAB1jnFWD8GmgAcAB4AIABqgGIAe4KkgEEMC4xMJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=YlcZZPqcGeXD4t4Phv2H4AY&bih=560&biw=1366&rlz=1C1YTUH_enIN1049IN1049#imgrc=kfpqCuXmfeFi9M)
 <h1 align="center">Hi 👋, I'm Mahesh Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
