@@ -1,6 +1,6 @@
 ![logi](https://github.com/Maheshchaudhari5736/Maheshchaudhari5736/blob/main/GitHub%20Logo.png)
 <h1 align="center">Hi 👋, I'm Mahesh Chaudhari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend & backend developer from India</h3>
 <img align="right alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshchaudhari5736&label=Profile%20views&color=0e75b6&style=flat" alt="maheshchaudhari5736" /> </p>
