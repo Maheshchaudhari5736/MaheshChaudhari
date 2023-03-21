@@ -1,4 +1,4 @@
-![logi](https://github.com/Maheshchaudhari5736/Maheshchaudhari5736/blob/main/GitHub%20Logo.png)
+![logi](https://github.com/Maheshchaudhari5736/Maheshchaudhari5736/blob/main/GitHub%20Logo%20updated.png)
 <h1 align="center">Hi 👋, I'm Mahesh Chaudhari</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 <img align="right alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
