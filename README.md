@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development Languages And Java Programming And MYSQl Database**
+- 🌱 I’m currently learning **Web Development Languages And Java Programming And MYSQL Database**
 
 - 💬 Ask me about **Html,CSS,JavaScript,React,Node,js,Java Programming,MySQL Database**
 
